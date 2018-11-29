@@ -1,5 +1,5 @@
 
-# Location Finder
+# Location Auto Fill
 
 This project is an [Create React App ](https://github.com/facebookincubator/create-react-app) boilerplate with integration of Redux, and Redux-observable for quick starting your redux applications with the power of RxJs
 
