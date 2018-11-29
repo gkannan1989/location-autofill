@@ -14,7 +14,7 @@ Before starting with project, please headover to the [Create-React-App](https://
 
 1. Clone this repo
 
-``
+`https://github.com/gkannan1989/location-autofill.git`
 
 2. To run, go to project folder and run
 
