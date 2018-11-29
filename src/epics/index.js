@@ -1,6 +1,7 @@
-import { combineReducers } from 'redux';
-import { searchResults } from './lander'
+import { combineEpics } from 'redux-observable';
+import { layoutEpic } from './lander'; 
 
-export const rootReducer = combineReducers({
-     searchResults,
-  });
+export const rootEpic = combineEpics(
+    layoutEpic,
+);
+  
