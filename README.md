@@ -4,7 +4,7 @@
 This project is an [Create React App ](https://github.com/facebookincubator/create-react-app) boilerplate with integration of Redux, and Redux-observable for quick starting your redux applications with the power of RxJs
 
 
-### [Demo](https://mmajdanski.github.io/cra-redux-observable/)
+### [Demo]
 
 Before starting with project, please headover to the [Create-React-App](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md
 ) documentation.
@@ -14,7 +14,7 @@ Before starting with project, please headover to the [Create-React-App](https://
 
 1. Clone this repo
 
-`https://github.com/mmajdanski/cra-redux-observable.git`
+``
 
 2. To run, go to project folder and run
 
