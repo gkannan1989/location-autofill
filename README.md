@@ -6,6 +6,8 @@ This project is an [Create React App ](https://github.com/facebookincubator/crea
 
 ### [Demo](https://google-location-autofill.herokuapp.com/)
 
+Please note: I am new to this redux-observable and still learning the quickest/feasible way to organize components. Adding to that HOC concept "./components/storage.js" was added but it was not used and its inprogress. Will be part of next version
+
 Before starting with project, please headover to the [Create-React-App](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md
 ) documentation.
 
